@@ -1,5 +1,9 @@
 #input vidoes
 IMG_8101.mp4
+pose_skeleton_output.mp4
+serveBackView.mp4
+serveRightView.mp4
+serveLeftView.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

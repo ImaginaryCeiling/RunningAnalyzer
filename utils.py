@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 from joints import extract_joints
-from analyze_pose import results
+
 
 def extract_landmarks(a,b,c):
     try:
